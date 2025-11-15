@@ -1,6 +1,6 @@
 # 🌟 AI Text Helper
 
-![AI Text Helper Banner](https://cdn.discordapp.com/attachments/1175850605797986344/1439354450304045198/Group_8.png?ex=691a36ca&is=6918e54a&hm=4368a4af5bc5315bd40bfcda5f672ea4c4ad9e7fa48f70f89141f89a74ed425e&)
+![AI Text Helper Banner](https://cdn.discordapp.com/attachments/1175850605797986344/1439392299111940207/Group_9.png?ex=691a5a0a&is=6919088a&hm=25bc06249198fd598ecb52cf9de7c4f07903c5afb274f6ab7618fb9404a9e2eb&)
 
 **AI Text Helper** — это расширение для Google Chrome, которое позволяет выделять текст на любой веб-странице и получать ответы от ИИ прямо на месте.  
 
