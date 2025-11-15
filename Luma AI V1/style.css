@@ -1,0 +1,49 @@
+/* Кнопка-иконка */
+.ai-button {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    background: linear-gradient(135deg, #ff6ec4, #7873f5);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+    transition: all 0.2s ease;
+    z-index: 99999;
+}
+
+.ai-button:hover {
+    transform: scale(1.2);
+}
+
+/* Окно с ответом ИИ */
+.ai-popup {
+    position: fixed;
+    top: 100px;
+    right: 50px;
+    width: 360px;
+    max-height: 300px;
+    padding: 15px 20px;
+    background: linear-gradient(145deg, #1c1c1c, #2a2a2a);
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    border-radius: 16px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.7), 0 0 15px #7873f5;
+    z-index: 99999;
+    cursor: move;
+    transition: all 0.2s ease-in-out;
+}
+
+/* Заголовок окна */
+.ai-popup-header {
+    text-align: right;
+}
+
+#closeBtn {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+}
