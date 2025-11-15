@@ -17,7 +17,8 @@
 
 ## 🖼 Превью
 
-![Preview]([https://your-image-link-here.com/preview.png](https://cdn.discordapp.com/attachments/1175850605797986344/1439354359719657720/image.png?ex=691a36b5&is=6918e535&hm=de301dee3ace3f19d7635b330a5e04b1db905ecf214d9021f7ad763fa4e9fd07&)
+![Preview](https://cdn.discordapp.com/attachments/1175850605797986344/1439354359719657720/image.png?ex=691a36b5&is=6918e535&hm=de301dee3ace3f19d7635b330a5e04b1db905ecf214d9021f7ad763fa4e9fd07&)
+
 
 ---
 
