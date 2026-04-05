@@ -24,7 +24,7 @@
 
 🌟 Luma AI V1.2 — Chat Edition
 
-![AI Text Helper Banner](https://cdn.discordapp.com/attachments/1175850605797986344/1439703955180617778/image.png?ex=69d40e4b&is=69d2bccb&hm=3282b2412d2b9a67a4c8ee398b8b535433cbda31ab68c44869802bf472d8358b&)
+![AI Text Helper Banner](https://cdn.discordapp.com/attachments/1175850605797986344/1439704856796594238/Group_9.png?ex=69d40f22&is=69d2bda2&hm=d6785455c881c8b1c23ea313b0e600c6831fa571832cecaed0852ea91e05b8b8&)
 
 
 AI Text Helper (Chat Edition) — обновлённая версия расширения для Google Chrome, которая теперь позволяет не только получать быстрые ответы по выделенному тексту, но и вести полноценный диалог с ИИ прямо на любой странице.
@@ -50,7 +50,7 @@ AI Text Helper (Chat Edition) — обновлённая версия расши
 Лёгкая интеграция с AI API через background script.
 ## 🖼 Превью
 
-![Preview](https://cdn.discordapp.com/attachments/1175850605797986344/1439703955180617778/image.png?ex=691b7c4b&is=691a2acb&hm=4706587fe207e95d2ec92fe4154c02d66efad9ef805c87402e51cc7e0dfee981&)
+![Preview](https://cdn.discordapp.com/attachments/1175850605797986344/1439703955180617778/image.png?ex=69d40e4b&is=69d2bccb&hm=3282b2412d2b9a67a4c8ee398b8b535433cbda31ab68c44869802bf472d8358b&)
 
 
 ---
