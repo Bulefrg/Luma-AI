@@ -1,4 +1,3 @@
-<img width="1528" height="564" alt="image" src="https://github.com/user-attachments/assets/d92f4767-4972-42fb-8d24-094be16f0acd" /># 🌟 Luma AI V1.1.1
 
 ![AI Text Helper Banner](https://cdn.discordapp.com/attachments/1175850605797986344/1439354450304045198/Group_8.png?ex=69d41a4a&is=69d2c8ca&hm=6fe1c37e5d6340dd1bed95a19ad1c8bf597609c459363145bd6edd2a8a5c57ab&)
 
