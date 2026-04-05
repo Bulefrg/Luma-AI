@@ -1,6 +1,6 @@
-# 🌟 Luma AI V1.1.1
+<img width="1528" height="564" alt="image" src="https://github.com/user-attachments/assets/d92f4767-4972-42fb-8d24-094be16f0acd" /># 🌟 Luma AI V1.1.1
 
-![AI Text Helper Banner](https://cdn.discordapp.com/attachments/1175850605797986344/1439392299111940207/Group_9.png?ex=691a5a0a&is=6919088a&hm=25bc06249198fd598ecb52cf9de7c4f07903c5afb274f6ab7618fb9404a9e2eb&)
+![AI Text Helper Banner](https://cdn.discordapp.com/attachments/1175850605797986344/1439354450304045198/Group_8.png?ex=69d41a4a&is=69d2c8ca&hm=6fe1c37e5d6340dd1bed95a19ad1c8bf597609c459363145bd6edd2a8a5c57ab&)
 
 **AI Text Helper** — это расширение для Google Chrome, которое позволяет выделять текст на любой веб-странице и получать ответы от ИИ прямо на месте.  
 
@@ -17,7 +17,7 @@
 
 ## 🖼 Превью
 
-![Preview](https://cdn.discordapp.com/attachments/1175850605797986344/1439354359719657720/image.png?ex=691a36b5&is=6918e535&hm=de301dee3ace3f19d7635b330a5e04b1db905ecf214d9021f7ad763fa4e9fd07&)
+![Preview](https://cdn.discordapp.com/attachments/1175850605797986344/1439354359719657720/image.png?ex=69d41a35&is=69d2c8b5&hm=fdd47674a060d502057c61cc74d9521c10d61f83af60a9de270432d4ae722913&)
 
 
 ---
@@ -25,7 +25,7 @@
 
 🌟 Luma AI V1.2 — Chat Edition
 
-![AI Text Helper Banner](https://cdn.discordapp.com/attachments/1175850605797986344/1439704856796594238/Group_9.png?ex=691b7d22&is=691a2ba2&hm=70b3e56901acad199ede22aeba5cda1cc77f6fbd2d332cbfc8709c92b47b2b3f&)
+![AI Text Helper Banner](https://cdn.discordapp.com/attachments/1175850605797986344/1439703955180617778/image.png?ex=69d40e4b&is=69d2bccb&hm=3282b2412d2b9a67a4c8ee398b8b535433cbda31ab68c44869802bf472d8358b&)
 
 
 AI Text Helper (Chat Edition) — обновлённая версия расширения для Google Chrome, которая теперь позволяет не только получать быстрые ответы по выделенному тексту, но и вести полноценный диалог с ИИ прямо на любой странице.
